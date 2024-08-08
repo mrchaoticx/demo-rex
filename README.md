@@ -1,2 +1,2 @@
 # CH DEMO
-A data repository for my demoing software.
+A data repository for CH demoing software.
